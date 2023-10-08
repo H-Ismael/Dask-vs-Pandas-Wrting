@@ -2,3 +2,5 @@
 Basic performance experiment to banchmark Dask vs Pandas.
 
 <img src="https://github.com/H-Ismael/Dask-vs-Pandas-Wrting/blob/main/pandasVSdask.png?raw=true">
+
+<img src="https://github.com/H-Ismael/Dask-vs-Pandas-Wrting/blob/main/pandasVSdask2.png?raw=true">
